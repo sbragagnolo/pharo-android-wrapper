@@ -8,4 +8,5 @@
 /app/src/main/obj/
 /app/src/main/assets/SmalltalkRessources/package-cache/
 *.so
+*~
 /app/src/main/resources/vmmaker
