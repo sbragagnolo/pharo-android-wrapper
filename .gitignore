@@ -4,5 +4,6 @@
 /.idea/libraries
 .DS_Store
 /build
+/app/build
 *.so
 /app/src/main/resources/vmmaker
